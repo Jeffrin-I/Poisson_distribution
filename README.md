@@ -30,7 +30,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```
- NAME : JEFFRIN I
+NAME : JEFFRIN I
 REG NO : 212225240060
 SLOT NO : T1-I5
 
